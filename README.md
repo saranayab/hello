@@ -66,29 +66,22 @@ Results were visualised using Looker Studio:
 
 ### 🌍 Geographic Distribution of Deprivation Gaps  
 <p align="center">
-  <img src="images/Goe_Chart.png" width="700">
+  <img src="images./Goe_Chart.png" width="700">
 </p>
-
-This map illustrates the geographical distribution of deprivation gaps across U.S. states, highlighting regional disparities and variations in inequality.
 
 ---
 
 ### 📈 Within-State Deprivation Variation  
 <p align="center">
-  <img src="images/Horizontal_Bar_Chart.png" width="700">
+  <img src="images./Horizontal_Bar_Chart.png" width="700">
 </p>
-
-This chart shows the internal variation in deprivation within each state, revealing the extent of inequality at a more granular level.
 
 ---
 
 ### 🏆 Top 10 U.S. States with Highest Deprivation Gap  
 <p align="center">
-  <img src="images/Vertical_Bar.png_Chart" width="700">
+  <img src="images./Vertical_Bar_Chart.png" width="700">
 </p>
-
-This bar chart presents the top 10 states with the highest differences between block-level and county-level deprivation scores, indicating areas with significant inequality.
-
 These visualisations help convert raw data into clear and actionable insights.
 
 ---
