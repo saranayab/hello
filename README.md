@@ -3,8 +3,8 @@
 ## 📌 Project Overview  
 This project explores socioeconomic inequality across the United States using the Broadstreet Area Deprivation Index (ADI) dataset. The work is divided into two phases:
 
-- Data Analysis (CW1) – Data cleaning, validation, and analytical querying  
-- Machine Learning (CW2) – Predictive modelling using BigQuery ML  
+- Data Analysis  – Data cleaning, validation, and analytical querying  
+- Machine Learning  – Predictive modelling using BigQuery ML  
 
 The goal is to transform large-scale public data into actionable insights and predictive intelligence for decision-making.
 
